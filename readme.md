@@ -33,7 +33,8 @@
         <h2> Building</h2>
     <p>This should build cleanly with microsoft visual studio, the program will through an exception 
         if run from visual studio using ctrl+f5 however if you navigate to the root directory there should
-        be an executable that can be run by double clicking.
+        be an executable that can be run by double clicking. The mouse navigates, and the w key will show
+        the wireframe of the sphere mesh tessellated / expanded from a cube.
         </p>
     </div>
 
