@@ -16,7 +16,7 @@
                 
     </header>
 
-<img class="img-responsive" src="Resources/pic.png" alt="logo">
+<img class="img-responsive" src="Resources/pic.jpg" alt="logo">
 
     <div>
         <h2> Description</h2>
@@ -25,6 +25,7 @@
         the noise planet example on cpu then copies opens the images, copies them
         to a hardware texture using a lockable texture object then hopefully copies them
         into the D3D_USAGE_DYNAMIC data pool for faster rendering. I think I wrote this in 2008.
+        Also the shader is from Realtime Shaders by Wolfgang Engel.
         </p>
     </div>
     
